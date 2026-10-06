@@ -1,0 +1,30 @@
+[
+  {
+    "column":"Sex",
+    "unique_count":2,
+    "top_value":"male",
+    "top_frequency":577,
+    "top_percentage":64.76
+  },
+  {
+    "column":"Ticket",
+    "unique_count":681,
+    "top_value":"347082",
+    "top_frequency":7,
+    "top_percentage":0.79
+  },
+  {
+    "column":"Cabin",
+    "unique_count":148,
+    "top_value":"Unknown",
+    "top_frequency":687,
+    "top_percentage":77.1
+  },
+  {
+    "column":"Embarked",
+    "unique_count":3,
+    "top_value":"S",
+    "top_frequency":646,
+    "top_percentage":72.5
+  }
+]

@@ -1,0 +1,13 @@
+column,role,dtype,missing_count,missing_pct,unique_count,sample_values
+PassengerId,identifier,int64,0,0.0,891,"1, 2, 3"
+Survived,discrete,int64,0,0.0,2,"0, 1, 1"
+Pclass,discrete,int64,0,0.0,3,"3, 1, 3"
+Name,text,str,0,0.0,891,"Braund, Mr. Owen Harris, Cumings, Mrs. John Bradley (Florence Briggs Thayer), Heikkinen, Miss. Laina"
+Sex,categorical,str,0,0.0,2,"male, female, female"
+Age,numerical,float64,177,19.87,88,"22.0, 38.0, 26.0"
+SibSp,discrete,int64,0,0.0,7,"1, 1, 0"
+Parch,discrete,int64,0,0.0,7,"0, 0, 0"
+Ticket,categorical,str,0,0.0,681,"A/5 21171, PC 17599, STON/O2. 3101282"
+Fare,numerical,float64,0,0.0,248,"7.25, 71.2833, 7.925"
+Cabin,categorical,str,687,77.1,147,"C85, C123, E46"
+Embarked,categorical,str,2,0.22,3,"S, C, S"

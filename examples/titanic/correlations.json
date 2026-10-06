@@ -1,0 +1,50 @@
+{
+  "Survived": {
+    "Survived": 1.0,
+    "Pclass": -0.3385,
+    "Age": -0.0649,
+    "SibSp": -0.0353,
+    "Parch": 0.0816,
+    "Fare": 0.2573
+  },
+  "Pclass": {
+    "Survived": -0.3385,
+    "Pclass": 1.0,
+    "Age": -0.3399,
+    "SibSp": 0.0831,
+    "Parch": 0.0184,
+    "Fare": -0.5495
+  },
+  "Age": {
+    "Survived": -0.0649,
+    "Pclass": -0.3399,
+    "Age": 1.0,
+    "SibSp": -0.2333,
+    "Parch": -0.1725,
+    "Fare": 0.0967
+  },
+  "SibSp": {
+    "Survived": -0.0353,
+    "Pclass": 0.0831,
+    "Age": -0.2333,
+    "SibSp": 1.0,
+    "Parch": 0.4148,
+    "Fare": 0.1597
+  },
+  "Parch": {
+    "Survived": 0.0816,
+    "Pclass": 0.0184,
+    "Age": -0.1725,
+    "SibSp": 0.4148,
+    "Parch": 1.0,
+    "Fare": 0.2162
+  },
+  "Fare": {
+    "Survived": 0.2573,
+    "Pclass": -0.5495,
+    "Age": 0.0967,
+    "SibSp": 0.1597,
+    "Parch": 0.2162,
+    "Fare": 1.0
+  }
+}

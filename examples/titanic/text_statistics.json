@@ -1,0 +1,10 @@
+[
+  {
+    "column":"Name",
+    "non_null_count":891,
+    "unique_count":891,
+    "average_length":26.96,
+    "minimum_length":12,
+    "maximum_length":82
+  }
+]
